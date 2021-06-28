@@ -32,7 +32,7 @@ export default function Skills() {
                 {
                     'area': 'Others',
                     'arr': [
-                        'Git', 'Github', 'Adobe Illustrator', 'Docker', 'Linux'
+                        'Git', 'Github', 'Adobe Illustrator', 'Docker', 'Linux', 'AWS'
                     ],
                 },
             ].map(
